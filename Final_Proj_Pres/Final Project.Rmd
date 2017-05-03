@@ -1,0 +1,38 @@
+---
+title: "Credit Crunchers"
+author: "Jing Chen, Jonathan Huth, Boris Shkurko, Bryan Thov"
+date: ""
+output: ioslides_presentation
+css: FinalProj.css
+logo: dino2.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## {#KEYQ}
+<img src = "https://github.com/b-t-/stat133/blob/master/Final_Proj_Pres/LCLogo.png?raw=true" height = 80px>
+<img src = "https://github.com/b-t-/stat133/blob/master/Final_Proj_Pres/P2P.jpg?raw=true" height = 200px>
+</div>
+
+<br>
+
+- Is <font color = "black"><b>geography</b></font> related to whether or not a <font color = "black"><b>loan will be delinquent</b></font>?
+- What <font color = "black"><b>factors</b></font> influence the <font color = "black"><b>number of delinquencies/delinquent payment amounts</b></font>? Does a history of delinquencies predict future loan defaults?
+- How are <font color = "black"><b>interest rates and loan types</b></font> related and how have interest rates moved over <font color = "black"><b>time</b></font> (time series analysis of interest rates over time by loan type)?
+- How well does Lending Club <font color = "grey"><b>evaluate their loan rating systems</b></font>, and how is this related to delinquencies? 
+<br> <br>
+<div class = "centered">
+<font color = "black"><b>Goal: Analyze different factors in peer to peer lending to help Lending Club maximize successful loans based on historical data </b></font>
+</div>
+
+## {#Process}
+<div class = "centered">
+<img src = "https://github.com/b-t-/stat133/blob/master/Final_Proj_Pres/PFlow.png?raw=true" width = 80%>
+</div>
+
+
+## Graphs
+
+
