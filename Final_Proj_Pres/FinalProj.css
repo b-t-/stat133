@@ -1,0 +1,24 @@
+#KEYQ {
+	font-size: .8em;
+}
+
+#KEYQ img {
+    vertical-align: middle;
+}
+
+.gdbar img {
+  width: 500px !important;
+  height: 200px !important;
+  margin: 8px 8px;
+  align: center;
+}
+
+.gdbar {
+  width: 100% !important;
+  height: 220px !important;
+  background-color: white;
+}
+
+slides > slide:not(.nobackground):after {
+  content: ""
+}
